@@ -1,0 +1,9 @@
+version: '3.8'
+services:
+  payment-cli:
+    container_name: payment-cli
+    build:
+      dockerfile: Dockerfile
+    image: payment-cli:latest
+    ports:
+      - 8082:8082

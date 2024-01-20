@@ -1,0 +1,9 @@
+
+m
+java:S3776W"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(¢÷‰Âûÿÿÿÿ
+N	java:S106Y"9Replace this use of System.out or System.err by a logger.(Ð«æç
+S	java:S106x"9Replace this use of System.out or System.err by a logger.(¾È™¾úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¾È™¾úÿÿÿÿ
+O	java:S106–"9Replace this use of System.out or System.err by a logger.(‡êÆ²
+j
+java:S2095c"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(ÊäÃ¸úÿÿÿÿ8¢ê›æŠ1
